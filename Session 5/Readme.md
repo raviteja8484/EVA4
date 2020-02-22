@@ -136,3 +136,21 @@ Result
 2) Image augmentation has helped us to increase the accuracy very so slightly.
 
 3) Only one epoch was able to achieve above 99.4%. Consistency was maintained around 99.39%
+
+
+
+
+| K,p,s     	| In 	| Out 	| Receptive Field 	| J(out) 	|
+|-----------	|----	|-----	|-----------------	|--------	|
+| 0         	| 0  	| 28  	| 1               	| 1      	|
+| 3,0,1     	| 28 	| 26  	| 3               	| 1      	|
+| 3,0,1     	| 26 	| 24  	| 5               	| 1      	|
+| 1,0,1     	| 24 	| 24  	| 5               	| 1      	|
+| 2,0,2(MP) 	| 24 	| 12  	| 5               	| 1      	|
+| 3,0,1     	| 12 	| 10  	| 9               	| 2      	|
+| 3,0,1     	| 10 	| 8   	| 13              	| 2      	|
+| 3,0,1     	| 8  	| 6   	| 17              	| 2      	|
+| 3,1,1     	| 6  	| 6   	| 21              	| 2      	|
+| 6,0,6     	| 6  	| 1   	| 31              	| 2      	|
+| 1,0,1     	| 1  	| 1   	| 31              	| 12     	|
+
