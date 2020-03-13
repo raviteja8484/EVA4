@@ -33,6 +33,19 @@ Parameters
 4.	**Training ACCURACY = 97.87%**
 5.	**Testing ACCURACY = 92.59%**
 
+False Positives
+---------------
+
+
+![alt text](https://github.com/raviteja8484/EVA4/blob/master/S8/FP.PNG "False Positives") 
+
+
+
+Training vs Validation Accuracy
+-------------------------------
+
+![Im](https://github.com/raviteja8484/EVA4/blob/master/S8/PlotGraph.PNG)
+
 
 Results
 -------
