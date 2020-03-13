@@ -61,3 +61,9 @@ Next Steps
   o	 Use the predictions to set an API and see if the weights can be saved and used as a service.
   
   o	 Work with and implement best codes ever to be used by self and others.
+  
+  
+How do I feel?
+--------------
+
+![Gif failed](https://github.com/raviteja8484/EVA4/blob/master/S8/own.gif)
