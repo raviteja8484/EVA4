@@ -28,8 +28,8 @@ Parameters
   * Weight decay = 0.0004
  3.	Scheduler = OneCycleLR
   * Max LR = 0.1
-  * Total Steps =20
-3.	**Epochs = 20**
+  * Total Steps =40
+3.	**Epochs = 40**
 4.	**Training ACCURACY = 99.66%**
 5.	**Testing ACCURACY = 93.76%**
 
