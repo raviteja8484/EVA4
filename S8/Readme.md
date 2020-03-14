@@ -30,8 +30,8 @@ Parameters
   * Max LR = 0.1
   * Total Steps =20
 3.	**Epochs = 20**
-4.	**Training ACCURACY = 97.87%**
-5.	**Testing ACCURACY = 92.59%**
+4.	**Training ACCURACY = 99.66%**
+5.	**Testing ACCURACY = 93.76%**
 
 False Positives
 ---------------
