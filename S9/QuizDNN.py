@@ -87,7 +87,7 @@ class QModel(nn.Module):
 
     def forward(self, x):
 
-        x1 = (x)
+        x1 = self.convblock1(x)
         x2 = self.convblock2(x1)
         x3 = self.convblock3(x1 + x2)
         x4 = self.MP1(x1 + x2 + x3)
