@@ -9,7 +9,7 @@ ACCURACY = 89. 16% (46 epochs)
 Implemened all the custom models.
 
 New misclassified code has to be implemented into the library.
-
+More images are in the notebook
 
 MISCLASSIFIED IMAGE
 -------------------------
