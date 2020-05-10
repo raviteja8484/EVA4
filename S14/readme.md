@@ -31,3 +31,57 @@ Foreground – Footballers (Cuz they are fun)
 11)	Iterated through each of the generated images (resized to 448 as the model was reducing output size by half) and created depth masks as follows.
 
 12)	Calculated the mean and std of the dataset.
+
+
+
+## BG Calculation
+
+Computing mean: 100%|██████████| 1/1 [00:10<00:00, 10.75s/it]
+Computing std:   0%|          | 0/1 [00:00<?, ?it/s]
+
+Mean:  tensor([0.5039, 0.5001, 0.4850])
+Computing std: 100%|██████████| 1/1 [00:00<00:00,  1.88it/s]
+
+Std:  tensor([0.2466, 0.2463, 0.2581])
+
+
+
+
+
+## FG Calculation
+
+
+Computing mean:   0%|          | 0/1 [00:00<?, ?it/s]
+Computing mean: 100%|██████████| 1/1 [00:00<00:00,  2.11it/s]
+
+Computing std:   0%|          | 0/1 [00:00<?, ?it/s]
+
+Mean:  tensor([0.1883, 0.1555, 0.1361])
+
+Computing std: 100%|██████████| 1/1 [00:00<00:00,  1.77it/s]
+
+Std:  tensor([0.3097, 0.2736, 0.2482])
+
+
+## Mask calculation
+Computing mean:   0%|          | 0/1 [00:00<?, ?it/s]
+Computing mean: 100%|██████████| 1/1 [00:00<00:00,  2.27it/s]
+
+Computing std:   0%|          | 0/1 [00:00<?, ?it/s]
+
+Mean:  tensor([0.3647, 0.3647, 0.3647])
+
+Computing std: 100%|██████████| 1/1 [00:00<00:00,  1.93it/s]
+
+Std:  tensor([0.4768, 0.4768, 0.4768])
+
+## FG_BG
+Computing mean:   0%|          | 0/4 [00:00<?, ?it/s]
+
+Mean:  tensor([0.1727, 0.1361, 0.1439])
+
+Computing std:   0%|          | 0/4 [00:00<?, ?it/s]
+
+Std:  tensor([0.1907, 0.1712, 0.1576])
+
+
