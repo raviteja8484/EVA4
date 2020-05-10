@@ -111,6 +111,6 @@ Std:  tensor([0.1907, 0.1712, 0.1576])
 
 ![STD and Mean Caluclation](https://github.com/raviteja8484/EVA4/blob/master/S14/Calculation.ipynb)
 
-
+![DATA SET](https://drive.google.com/drive/folders/1mdsfyT4LXikBSgAsHRD-um8Q1f2gEnRC?usp=sharing)
 
 
