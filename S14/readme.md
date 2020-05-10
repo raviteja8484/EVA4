@@ -7,9 +7,9 @@
 
 # Foreground – Footballers (Cuz they are fun)
 
-![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/bg_021.png)
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/fg_036.png)
 
-![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/bg_021.png)
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/fg_037.png)
 
 
 1)	Downloaded the random images from google.
@@ -35,6 +35,8 @@
 11)	Iterated through each of the generated images (resized to 448 as the model was reducing output size by half) and created depth masks as follows.
 
 12)	Calculated the mean and std of the dataset.
+
+
 
 
 
