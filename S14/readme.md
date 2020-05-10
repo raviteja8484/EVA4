@@ -43,6 +43,11 @@
 
 ![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/fg_mask_037.jpg)
 
+# Depth Model Predictions
+
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/img_0005.jpg)
+
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/img_0021.jpg)
 
 ## BG Calculation
 
