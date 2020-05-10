@@ -37,9 +37,11 @@ Foreground – Footballers (Cuz they are fun)
 ## BG Calculation
 
 Computing mean: 100%|██████████| 1/1 [00:10<00:00, 10.75s/it]
+
 Computing std:   0%|          | 0/1 [00:00<?, ?it/s]
 
 Mean:  tensor([0.5039, 0.5001, 0.4850])
+
 Computing std: 100%|██████████| 1/1 [00:00<00:00,  1.88it/s]
 
 Std:  tensor([0.2466, 0.2463, 0.2581])
@@ -52,6 +54,7 @@ Std:  tensor([0.2466, 0.2463, 0.2581])
 
 
 Computing mean:   0%|          | 0/1 [00:00<?, ?it/s]
+
 Computing mean: 100%|██████████| 1/1 [00:00<00:00,  2.11it/s]
 
 Computing std:   0%|          | 0/1 [00:00<?, ?it/s]
@@ -64,7 +67,9 @@ Std:  tensor([0.3097, 0.2736, 0.2482])
 
 
 ## Mask calculation
+
 Computing mean:   0%|          | 0/1 [00:00<?, ?it/s]
+
 Computing mean: 100%|██████████| 1/1 [00:00<00:00,  2.27it/s]
 
 Computing std:   0%|          | 0/1 [00:00<?, ?it/s]
@@ -76,6 +81,7 @@ Computing std: 100%|██████████| 1/1 [00:00<00:00,  1.93it/s]
 Std:  tensor([0.4768, 0.4768, 0.4768])
 
 ## FG_BG
+
 Computing mean:   0%|          | 0/4 [00:00<?, ?it/s]
 
 Mean:  tensor([0.1727, 0.1361, 0.1439])
