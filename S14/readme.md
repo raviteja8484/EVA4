@@ -37,7 +37,11 @@
 12)	Calculated the mean and std of the dataset.
 
 
+# FG Masks
 
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/fg_mask_036.jpg)
+
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/fg_mask_037.jpg)
 
 
 ## BG Calculation
