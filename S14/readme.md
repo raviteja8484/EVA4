@@ -1,12 +1,15 @@
-Background Images – Streets (A combination of different country streets backgrounds)
-
-Foreground – Footballers (Cuz they are fun)
+# Background Images – Streets (A combination of different country streets backgrounds)
 
 ![Background](https://github.com/raviteja8484/EVA4/blob/master/S14/bg_012.png)
 
 ![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/bg_021.png)
 
 
+# Foreground – Footballers (Cuz they are fun)
+
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/bg_021.png)
+
+![Background2](https://github.com/raviteja8484/EVA4/blob/master/S14/bg_021.png)
 
 
 1)	Downloaded the random images from google.
