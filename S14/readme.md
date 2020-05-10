@@ -36,6 +36,10 @@
 
 12)	Calculated the mean and std of the dataset.
 
+13) PNG supports image transparency so they were used for creating the masks. But the JPEG sizes are smaller hence they have been used for that
+
+14) Image quality was reduced to 65% to reduce the size of the data format. 
+
 
 # FG Masks
 
