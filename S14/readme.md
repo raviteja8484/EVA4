@@ -107,11 +107,7 @@ Std:  tensor([0.1907, 0.1712, 0.1576])
 
 # Scripts
 
-Data Creation
-
 ![Data creation](https://github.com/raviteja8484/EVA4/blob/master/S14/data_creation.ipynb)
-
-STD and Mean calculation
 
 ![STD and Mean Caluclation](https://github.com/raviteja8484/EVA4/blob/master/S14/Calculation.ipynb)
 
